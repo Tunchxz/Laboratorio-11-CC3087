@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "788677853983",
+    "project_id": "databasedebug-294a0",
+    "storage_bucket": "databasedebug-294a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788677853983:android:d5b33e3c889ceae79fe62a",
+        "android_client_info": {
+          "package_name": "uvg.edu.blogapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrwyIJDFBdsHAz9GrFCTD56nAKiny4Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788677853983:android:7bef70ee1571f4469fe62a",
+        "android_client_info": {
+          "package_name": "uvg.edu.laboratorio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrwyIJDFBdsHAz9GrFCTD56nAKiny4Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
